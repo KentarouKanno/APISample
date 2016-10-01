@@ -1,8 +1,0 @@
-version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "cc117734bf62223e6704156fab611073"
-build_time: [528655063, 663704000]
-inputs:
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(SwiftyJSON)/APISample/APIManager.swift": [528655063, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(SwiftyJSON)/APISample/DataModel.swift": [528650502, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(SwiftyJSON)/APISample/ViewController.swift": [528651719, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(SwiftyJSON)/APISample/AppDelegate.swift": [528650963, 0]
