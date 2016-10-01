@@ -1,9 +1,0 @@
-version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "6207ab4b67f6d172894751e4064880d1"
-build_time: [528679690, 574196000]
-inputs:
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/APISample/APIManager.swift": !dirty [528650963, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/APISample/DataModel.swift": !dirty [528650502, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/APISample/ViewController.swift": !dirty [528651719, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/APISample/AppDelegate.swift": !dirty [528678957, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/APISample/KeychainManager.swift": !dirty [528679171, 0]
