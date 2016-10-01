@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': '/Users/KentarOu/Desktop/デスクトップ/DeskTop/Xcode_Project/2016_Project/10月/APISample/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules'
+    'name': '/Users/KentarOu/Desktop/デスクトップ/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON)/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules'
     'contents': [{
       'type': 'file',
       'name': 'module.modulemap',
-      'external-contents': '/Users/KentarOu/Desktop/デスクトップ/DeskTop/Xcode_Project/2016_Project/10月/APISample/Build/Intermediates/Pods.build/Debug-iphoneos/SwiftyJSON.build/unextended-module.modulemap',
+      'external-contents': '/Users/KentarOu/Desktop/デスクトップ/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON)/Build/Intermediates/Pods.build/Debug-iphoneos/SwiftyJSON.build/unextended-module.modulemap',
     }]
   }]
 }

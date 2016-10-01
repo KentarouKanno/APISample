@@ -1,5 +1,5 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "381e19c0139d49ba498b6056de736a79"
-build_time: [528650610, 820040000]
+options: "1a5000cab8da587348d1e6bd7b87d171"
+build_time: [528653171, 796014000]
 inputs:
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2016_Project/10\u6708/APISample/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [528650497, 0]
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON)/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [528650497, 0]

@@ -1,8 +1,8 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "bc9de8211758dd82ef6ce972bee1d210"
-build_time: [528651719, 716670000]
+options: "76dccea0cb62c41dc76d0edba6a0c7e0"
+build_time: [528653174, 958846000]
 inputs:
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2016_Project/10\u6708/APISample/APISample/APIManager.swift": [528650963, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2016_Project/10\u6708/APISample/APISample/DataModel.swift": [528650502, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2016_Project/10\u6708/APISample/APISample/ViewController.swift": [528651719, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2016_Project/10\u6708/APISample/APISample/AppDelegate.swift": [528650963, 0]
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON)/APISample/APIManager.swift": [528650963, 0]
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON)/APISample/DataModel.swift": [528650502, 0]
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON)/APISample/ViewController.swift": [528651719, 0]
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON)/APISample/AppDelegate.swift": [528650963, 0]
