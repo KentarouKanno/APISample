@@ -1,0 +1,150 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ControlPropertyType"
+- "ControlProperty"
+provides-nominal:
+- "P7RxCocoa19ControlPropertyType"
+- "V7RxCocoa15ControlProperty"
+provides-member:
+- ["P7RxCocoa19ControlPropertyType", ""]
+- ["V7RxCocoa15ControlProperty", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ObservableType"
+- "Event"
+- !private "bindingErrorToInterface"
+- "Observable"
+- "ObserverType"
+- "Disposable"
+- "ControlProperty"
+- "AnyObserver"
+- "AssignmentPrecedence"
+- "ControlPropertyType"
+- !private "ConcurrentMainScheduler"
+depends-member:
+- !private ["Ps9AnyObject", "E"]
+- !private ["Ps9AnyObject", "instance"]
+- !private ["Ps9AnyObject", "subscribe"]
+- ["V7RxSwift11AnyObserver", "deinit"]
+- !private ["V7RxSwift11AnyObserver", "on"]
+- ["C7RxSwift23ConcurrentMainScheduler", "deinit"]
+- !private ["C7RxSwift23ConcurrentMainScheduler", "instance"]
+- ["V7RxCocoa15ControlProperty", "AnyObserver"]
+- !private ["V7RxCocoa15ControlProperty", "ConcurrentMainScheduler"]
+- ["V7RxCocoa15ControlProperty", "ControlProperty"]
+- ["V7RxCocoa15ControlProperty", "Disposable"]
+- ["V7RxCocoa15ControlProperty", "E"]
+- ["V7RxCocoa15ControlProperty", "Event"]
+- ["V7RxCocoa15ControlProperty", "Observable"]
+- ["V7RxCocoa15ControlProperty", "ObservableType"]
+- ["V7RxCocoa15ControlProperty", "ObserverType"]
+- ["V7RxCocoa15ControlProperty", "PropertyType"]
+- ["V7RxCocoa15ControlProperty", "_valueSink"]
+- ["V7RxCocoa15ControlProperty", "_values"]
+- ["V7RxCocoa15ControlProperty", "asControlProperty"]
+- ["V7RxCocoa15ControlProperty", "asObservable"]
+- !private ["V7RxCocoa15ControlProperty", "bindingErrorToInterface"]
+- ["V7RxCocoa15ControlProperty", "deinit"]
+- ["V7RxCocoa15ControlProperty", "init"]
+- ["V7RxCocoa15ControlProperty", "on"]
+- ["V7RxCocoa15ControlProperty", "subscribe"]
+- !private ["P7RxCocoa19ControlPropertyType", "ConcurrentMainScheduler"]
+- ["P7RxCocoa19ControlPropertyType", "ControlProperty"]
+- ["P7RxCocoa19ControlPropertyType", "E"]
+- !private ["P7RxCocoa19ControlPropertyType", "_valueSink"]
+- !private ["P7RxCocoa19ControlPropertyType", "_values"]
+- ["P7RxCocoa19ControlPropertyType", "asControlProperty"]
+- ["P7RxCocoa19ControlPropertyType", "asObservable"]
+- !private ["P7RxCocoa19ControlPropertyType", "bindingErrorToInterface"]
+- ["P7RxCocoa19ControlPropertyType", "on"]
+- ["P7RxCocoa19ControlPropertyType", "subscribe"]
+- ["P7RxCocoa19ControlPropertyType", ""]
+- ["Ps28CustomDebugStringConvertible", "completed"]
+- ["Ps28CustomDebugStringConvertible", "error"]
+- ["Ps28CustomDebugStringConvertible", "next"]
+- ["P7RxSwift10Disposable", "deinit"]
+- ["Ps5Error", "deinit"]
+- ["O7RxSwift5Event", "completed"]
+- ["O7RxSwift5Event", "deinit"]
+- ["O7RxSwift5Event", "error"]
+- ["O7RxSwift5Event", "next"]
+- !private ["P7RxSwift22ImmediateSchedulerType", "instance"]
+- !private ["C7RxSwift10Observable", "E"]
+- ["C7RxSwift10Observable", "deinit"]
+- !private ["C7RxSwift10Observable", "subscribe"]
+- !private ["P7RxSwift25ObservableConvertibleType", "ConcurrentMainScheduler"]
+- ["P7RxSwift25ObservableConvertibleType", "ControlProperty"]
+- ["P7RxSwift25ObservableConvertibleType", "E"]
+- !private ["P7RxSwift25ObservableConvertibleType", "_valueSink"]
+- !private ["P7RxSwift25ObservableConvertibleType", "_values"]
+- ["P7RxSwift25ObservableConvertibleType", "asControlProperty"]
+- ["P7RxSwift25ObservableConvertibleType", "asObservable"]
+- !private ["P7RxSwift25ObservableConvertibleType", "bindingErrorToInterface"]
+- ["P7RxSwift25ObservableConvertibleType", "on"]
+- ["P7RxSwift25ObservableConvertibleType", "subscribe"]
+- !private ["P7RxSwift25ObservableConvertibleType", "subscribeOn"]
+- ["P7RxSwift25ObservableConvertibleType", ""]
+- !private ["P7RxSwift14ObservableType", "ConcurrentMainScheduler"]
+- ["P7RxSwift14ObservableType", "ControlProperty"]
+- ["P7RxSwift14ObservableType", "E"]
+- !private ["P7RxSwift14ObservableType", "_valueSink"]
+- !private ["P7RxSwift14ObservableType", "_values"]
+- ["P7RxSwift14ObservableType", "asControlProperty"]
+- ["P7RxSwift14ObservableType", "asObservable"]
+- !private ["P7RxSwift14ObservableType", "bindingErrorToInterface"]
+- ["P7RxSwift14ObservableType", "on"]
+- ["P7RxSwift14ObservableType", "subscribe"]
+- !private ["P7RxSwift14ObservableType", "subscribeOn"]
+- ["P7RxSwift14ObservableType", ""]
+- !private ["P7RxSwift12ObserverType", "ConcurrentMainScheduler"]
+- ["P7RxSwift12ObserverType", "ControlProperty"]
+- ["P7RxSwift12ObserverType", "E"]
+- !private ["P7RxSwift12ObserverType", "_valueSink"]
+- !private ["P7RxSwift12ObserverType", "_values"]
+- ["P7RxSwift12ObserverType", "asControlProperty"]
+- ["P7RxSwift12ObserverType", "asObservable"]
+- !private ["P7RxSwift12ObserverType", "asObserver"]
+- !private ["P7RxSwift12ObserverType", "bindingErrorToInterface"]
+- ["P7RxSwift12ObserverType", "on"]
+- ["P7RxSwift12ObserverType", "subscribe"]
+- ["P7RxSwift12ObserverType", ""]
+- !private ["P7RxSwift13SchedulerType", "instance"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- "V7RxSwift11AnyObserver"
+- "C7RxSwift23ConcurrentMainScheduler"
+- "V7RxCocoa15ControlProperty"
+- "P7RxCocoa19ControlPropertyType"
+- "Ps28CustomDebugStringConvertible"
+- "P7RxSwift10Disposable"
+- "Ps5Error"
+- "O7RxSwift5Event"
+- !private "P7RxSwift22ImmediateSchedulerType"
+- "C7RxSwift10Observable"
+- "P7RxSwift25ObservableConvertibleType"
+- "P7RxSwift14ObservableType"
+- "P7RxSwift12ObserverType"
+- !private "P7RxSwift13SchedulerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXObjCRuntime.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXKVOObserver.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXDelegateProxy.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RX.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/RxCocoa.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxCocoa/RxCocoa-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxCocoa.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/arm64.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxSwift.build/module.modulemap"
+interface-hash: "f600c833fab3877e07ca68243f26c6eb"

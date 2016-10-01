@@ -1,0 +1,176 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DeallocatingObservable"
+- "MessageSentObservable"
+provides-nominal:
+- "C7RxCocoa22DeallocatingObservable"
+- "C7RxCocoa21MessageSentObservable"
+provides-member:
+- ["C7RxCocoa22DeallocatingObservable", ""]
+- ["C7RxCocoa21MessageSentObservable", ""]
+provides-dynamic-lookup:
+- "targetImplementation"
+- "targetImplementation"
+- "messageSent"
+- "messageSent"
+depends-top-level:
+- "RXMessageSentObserver"
+- "Void"
+- "PublishSubject"
+- "CastingPrecedence"
+- !private "!="
+- "ReplaySubject"
+- "MessageSentObservable"
+- "Bool"
+- "AnyObject"
+- "ObservableConvertibleType"
+- "DeallocatingObservable"
+- "RX_default_target_implementation"
+- "IMP"
+- "Observable"
+depends-member:
+- ["Ps9AnyObject", "E"]
+- ["Ps9AnyObject", "PublishSubject"]
+- ["Ps9AnyObject", "RX_default_target_implementation"]
+- ["Ps9AnyObject", "ReplaySubject"]
+- !private ["Ps9AnyObject", "_subject"]
+- ["Ps9AnyObject", "asObservable"]
+- ["Ps9AnyObject", "create"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "messageSent"]
+- ["Ps9AnyObject", "messageSentWithParameters"]
+- !private ["Ps9AnyObject", "on"]
+- ["Ps9AnyObject", "targetImplementation"]
+- ["Ps9AnyObject", ""]
+- ["Sa", "deinit"]
+- ["Sb", "deinit"]
+- ["P7RxSwift10Cancelable", "init"]
+- !private ["P7RxSwift10Cancelable", "on"]
+- !private ["Ps28CustomDebugStringConvertible", "completed"]
+- !private ["Ps28CustomDebugStringConvertible", "next"]
+- ["C7RxCocoa22DeallocatingObservable", "Bool"]
+- ["C7RxCocoa22DeallocatingObservable", "E"]
+- ["C7RxCocoa22DeallocatingObservable", "IMP"]
+- ["C7RxCocoa22DeallocatingObservable", "Observable"]
+- ["C7RxCocoa22DeallocatingObservable", "RX_default_target_implementation"]
+- ["C7RxCocoa22DeallocatingObservable", "ReplaySubject"]
+- ["C7RxCocoa22DeallocatingObservable", "Void"]
+- !private ["C7RxCocoa22DeallocatingObservable", "_subject"]
+- ["C7RxCocoa22DeallocatingObservable", "asObservable"]
+- ["C7RxCocoa22DeallocatingObservable", "deinit"]
+- ["C7RxCocoa22DeallocatingObservable", "init"]
+- ["C7RxCocoa22DeallocatingObservable", "isActive"]
+- ["C7RxCocoa22DeallocatingObservable", "messageSent"]
+- ["C7RxCocoa22DeallocatingObservable", "messageSentWithParameters"]
+- ["C7RxCocoa22DeallocatingObservable", "targetImplementation"]
+- ["P7RxSwift10Disposable", "create"]
+- ["P7RxSwift10Disposable", "init"]
+- !private ["P7RxSwift10Disposable", "on"]
+- !private ["O7RxSwift5Event", "completed"]
+- ["O7RxSwift5Event", "deinit"]
+- !private ["O7RxSwift5Event", "next"]
+- ["Si", "deinit"]
+- ["C7RxCocoa21MessageSentObservable", "AnyObject"]
+- ["C7RxCocoa21MessageSentObservable", "Bool"]
+- ["C7RxCocoa21MessageSentObservable", "E"]
+- ["C7RxCocoa21MessageSentObservable", "IMP"]
+- ["C7RxCocoa21MessageSentObservable", "Observable"]
+- ["C7RxCocoa21MessageSentObservable", "PublishSubject"]
+- ["C7RxCocoa21MessageSentObservable", "RX_default_target_implementation"]
+- ["C7RxCocoa21MessageSentObservable", "Void"]
+- !private ["C7RxCocoa21MessageSentObservable", "_subject"]
+- ["C7RxCocoa21MessageSentObservable", "asObservable"]
+- ["C7RxCocoa21MessageSentObservable", "deinit"]
+- ["C7RxCocoa21MessageSentObservable", "init"]
+- ["C7RxCocoa21MessageSentObservable", "isActive"]
+- ["C7RxCocoa21MessageSentObservable", "messageSent"]
+- ["C7RxCocoa21MessageSentObservable", "messageSentWithParameters"]
+- ["C7RxCocoa21MessageSentObservable", "targetImplementation"]
+- ["C7RxSwift10Observable", "create"]
+- ["C7RxSwift10Observable", "init"]
+- !private ["C7RxSwift10Observable", "on"]
+- ["P7RxSwift25ObservableConvertibleType", "E"]
+- ["P7RxSwift25ObservableConvertibleType", "PublishSubject"]
+- ["P7RxSwift25ObservableConvertibleType", "RX_default_target_implementation"]
+- ["P7RxSwift25ObservableConvertibleType", "ReplaySubject"]
+- !private ["P7RxSwift25ObservableConvertibleType", "_subject"]
+- ["P7RxSwift25ObservableConvertibleType", "asObservable"]
+- ["P7RxSwift25ObservableConvertibleType", "create"]
+- ["P7RxSwift25ObservableConvertibleType", "init"]
+- ["P7RxSwift25ObservableConvertibleType", "messageSent"]
+- ["P7RxSwift25ObservableConvertibleType", "messageSentWithParameters"]
+- !private ["P7RxSwift25ObservableConvertibleType", "on"]
+- ["P7RxSwift25ObservableConvertibleType", "targetImplementation"]
+- ["P7RxSwift25ObservableConvertibleType", ""]
+- ["P7RxSwift14ObservableType", "create"]
+- ["P7RxSwift14ObservableType", "init"]
+- !private ["P7RxSwift14ObservableType", "on"]
+- ["P7RxSwift12ObserverType", "create"]
+- ["P7RxSwift12ObserverType", "init"]
+- !private ["P7RxSwift12ObserverType", "on"]
+- ["Vs13OpaquePointer", "deinit"]
+- ["C7RxSwift14PublishSubject", "deinit"]
+- ["C7RxSwift14PublishSubject", "init"]
+- !private ["C7RxSwift14PublishSubject", "on"]
+- ["PSo21RXMessageSentObserver", "E"]
+- ["PSo21RXMessageSentObserver", "PublishSubject"]
+- ["PSo21RXMessageSentObserver", "RX_default_target_implementation"]
+- ["PSo21RXMessageSentObserver", "ReplaySubject"]
+- !private ["PSo21RXMessageSentObserver", "_subject"]
+- ["PSo21RXMessageSentObserver", "asObservable"]
+- ["PSo21RXMessageSentObserver", "messageSent"]
+- ["PSo21RXMessageSentObserver", "messageSentWithParameters"]
+- ["PSo21RXMessageSentObserver", "targetImplementation"]
+- ["PSo21RXMessageSentObserver", ""]
+- ["C7RxSwift13ReplaySubject", "create"]
+- ["C7RxSwift13ReplaySubject", "deinit"]
+- !private ["C7RxSwift13ReplaySubject", "on"]
+- ["P7RxSwift11SubjectType", "create"]
+- ["P7RxSwift11SubjectType", "init"]
+- !private ["P7RxSwift11SubjectType", "on"]
+- ["P7RxSwift27SynchronizedUnsubscribeType", "init"]
+- !private ["P7RxSwift27SynchronizedUnsubscribeType", "on"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "Sb"
+- "P7RxSwift10Cancelable"
+- !private "Ps28CustomDebugStringConvertible"
+- "C7RxCocoa22DeallocatingObservable"
+- "P7RxSwift10Disposable"
+- "O7RxSwift5Event"
+- "Si"
+- "C7RxCocoa21MessageSentObservable"
+- "C7RxSwift10Observable"
+- "P7RxSwift25ObservableConvertibleType"
+- "P7RxSwift14ObservableType"
+- "P7RxSwift12ObserverType"
+- "Vs13OpaquePointer"
+- "C7RxSwift14PublishSubject"
+- "PSo21RXMessageSentObserver"
+- "C7RxSwift13ReplaySubject"
+- "P7RxSwift11SubjectType"
+- "P7RxSwift27SynchronizedUnsubscribeType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXObjCRuntime.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXKVOObserver.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXDelegateProxy.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RX.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/RxCocoa.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxCocoa/RxCocoa-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxCocoa.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/arm64.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxSwift.build/module.modulemap"
+interface-hash: "df952ce1a8dca8092faabe109bb0d9ae"

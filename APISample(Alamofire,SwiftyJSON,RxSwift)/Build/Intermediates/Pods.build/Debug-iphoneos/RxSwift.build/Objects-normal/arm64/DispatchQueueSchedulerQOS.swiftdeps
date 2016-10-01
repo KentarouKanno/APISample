@@ -1,0 +1,121 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DispatchQueueSchedulerQOS"
+- "=="
+provides-nominal:
+- "O7RxSwift25DispatchQueueSchedulerQOS"
+provides-member:
+- ["O7RxSwift25DispatchQueueSchedulerQOS", ""]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "qos"]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "DispatchQoS"
+- "DispatchQueueSchedulerQOS"
+- !private "IntegerLiteralType"
+- !private "FloatLiteralType"
+depends-member:
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- !private ["Ps7CVarArg", "hashValue"]
+- !private ["Ps10Comparable", "hashValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- !private ["V8Dispatch11DispatchQoS", "background"]
+- !private ["V8Dispatch11DispatchQoS", "default"]
+- ["V8Dispatch11DispatchQoS", "deinit"]
+- !private ["V8Dispatch11DispatchQoS", "userInitiated"]
+- !private ["V8Dispatch11DispatchQoS", "userInteractive"]
+- !private ["V8Dispatch11DispatchQoS", "utility"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "=="]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "DispatchQoS"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "_toAnyHashable"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "background"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "default"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "deinit"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "hashValue"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "qos"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "userInitiated"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "userInteractive"]
+- ["O7RxSwift25DispatchQueueSchedulerQOS", "utility"]
+- ["Ps9Equatable", "_toAnyHashable"]
+- ["Ps9Equatable", "background"]
+- ["Ps9Equatable", "default"]
+- ["Ps9Equatable", "hashValue"]
+- ["Ps9Equatable", "userInitiated"]
+- ["Ps9Equatable", "userInteractive"]
+- ["Ps9Equatable", "utility"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByIntegerLiteral", "hashValue"]
+- ["Ps8Hashable", "_toAnyHashable"]
+- ["Ps8Hashable", "background"]
+- ["Ps8Hashable", "default"]
+- ["Ps8Hashable", "hashValue"]
+- ["Ps8Hashable", "userInitiated"]
+- ["Ps8Hashable", "userInteractive"]
+- ["Ps8Hashable", "utility"]
+- ["Ps8Hashable", ""]
+- ["Si", "deinit"]
+- !private ["Si", "hashValue"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- !private ["Ps10Strideable", "hashValue"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "hashValue"]
+- ["Ps9_Hashable", "_toAnyHashable"]
+- ["Ps9_Hashable", "background"]
+- ["Ps9_Hashable", "default"]
+- ["Ps9_Hashable", "hashValue"]
+- ["Ps9_Hashable", "userInitiated"]
+- ["Ps9_Hashable", "userInteractive"]
+- ["Ps9_Hashable", "utility"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "hashValue"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- !private ["Ps11_Strideable", "hashValue"]
+depends-nominal:
+- !private "Ps17BitwiseOperations"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "V8Dispatch11DispatchQoS"
+- "O7RxSwift25DispatchQueueSchedulerQOS"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "Ps8Hashable"
+- "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps10MirrorPath"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "e90620d1f13e4857d14b8f89185cc869"

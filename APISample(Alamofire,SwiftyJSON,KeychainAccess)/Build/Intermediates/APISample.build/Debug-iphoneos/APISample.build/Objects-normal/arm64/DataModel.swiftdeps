@@ -1,0 +1,47 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LibraryData"
+provides-nominal:
+- "V9APISample11LibraryData"
+provides-member:
+- ["V9APISample11LibraryData", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "JSON"
+- "LibraryData"
+- "String"
+depends-member:
+- ["SQ", "deinit"]
+- ["V9APISample11LibraryData", "JSON"]
+- ["V9APISample11LibraryData", "String"]
+- ["V9APISample11LibraryData", "address"]
+- ["V9APISample11LibraryData", "category"]
+- ["V9APISample11LibraryData", "city"]
+- ["V9APISample11LibraryData", "deinit"]
+- ["V9APISample11LibraryData", "geocode"]
+- ["V9APISample11LibraryData", "libid"]
+- ["V9APISample11LibraryData", "libkey"]
+- ["V9APISample11LibraryData", "post"]
+- ["V9APISample11LibraryData", "pref"]
+- ["V9APISample11LibraryData", "short"]
+- ["V9APISample11LibraryData", "systemid"]
+- ["V9APISample11LibraryData", "tel"]
+- ["V9APISample11LibraryData", "url_pc"]
+depends-nominal:
+- "SQ"
+- "V9APISample11LibraryData"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,KeychainAccess)/Build/Products/Debug-iphoneos/KeychainAccess/KeychainAccess.framework/Modules/KeychainAccess.swiftmodule/arm64.swiftmodule"
+interface-hash: "032aab22f5f283f6a4d4d9ef3b8d74eb"

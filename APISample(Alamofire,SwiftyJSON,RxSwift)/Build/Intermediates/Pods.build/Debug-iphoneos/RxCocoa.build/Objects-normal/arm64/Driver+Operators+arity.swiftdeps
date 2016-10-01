@@ -1,0 +1,88 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["V7RxCocoa6Driver", ""]
+- ["V7RxCocoa6Driver", "zip"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+- ["V7RxCocoa6Driver", "zip"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+- ["V7RxCocoa6Driver", "zip"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+- ["V7RxCocoa6Driver", "zip"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+- ["V7RxCocoa6Driver", "zip"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+- ["V7RxCocoa6Driver", "zip"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+- ["V7RxCocoa6Driver", "zip"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Driver"
+- !private "Observable"
+- "DriverConvertibleType"
+depends-member:
+- !private ["Ps9AnyObject", "E"]
+- !private ["Ps9AnyObject", "combineLatest"]
+- !private ["Ps9AnyObject", "zip"]
+- ["V7RxCocoa6Driver", "Driver"]
+- ["V7RxCocoa6Driver", "DriverConvertibleType"]
+- ["V7RxCocoa6Driver", "E"]
+- !private ["V7RxCocoa6Driver", "Observable"]
+- !private ["V7RxCocoa6Driver", "asObservable"]
+- ["V7RxCocoa6Driver", "combineLatest"]
+- ["V7RxCocoa6Driver", "deinit"]
+- !private ["V7RxCocoa6Driver", "init"]
+- ["V7RxCocoa6Driver", "zip"]
+- !private ["P7RxCocoa21DriverConvertibleType", "Driver"]
+- !private ["P7RxCocoa21DriverConvertibleType", "E"]
+- !private ["P7RxCocoa21DriverConvertibleType", "Observable"]
+- !private ["P7RxCocoa21DriverConvertibleType", "asDriver"]
+- !private ["P7RxCocoa21DriverConvertibleType", "asObservable"]
+- !private ["P7RxCocoa21DriverConvertibleType", "init"]
+- !private ["C7RxSwift10Observable", "E"]
+- !private ["C7RxSwift10Observable", "combineLatest"]
+- ["C7RxSwift10Observable", "deinit"]
+- !private ["C7RxSwift10Observable", "zip"]
+- !private ["P7RxSwift25ObservableConvertibleType", "Driver"]
+- !private ["P7RxSwift25ObservableConvertibleType", "E"]
+- !private ["P7RxSwift25ObservableConvertibleType", "Observable"]
+- !private ["P7RxSwift25ObservableConvertibleType", "asDriver"]
+- !private ["P7RxSwift25ObservableConvertibleType", "asObservable"]
+- !private ["P7RxSwift25ObservableConvertibleType", "combineLatest"]
+- !private ["P7RxSwift25ObservableConvertibleType", "init"]
+- !private ["P7RxSwift25ObservableConvertibleType", "zip"]
+- !private ["P7RxSwift14ObservableType", "E"]
+- !private ["P7RxSwift14ObservableType", "combineLatest"]
+- !private ["P7RxSwift14ObservableType", "zip"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- "V7RxCocoa6Driver"
+- !private "P7RxCocoa21DriverConvertibleType"
+- "C7RxSwift10Observable"
+- !private "P7RxSwift25ObservableConvertibleType"
+- !private "P7RxSwift14ObservableType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXObjCRuntime.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXKVOObserver.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXDelegateProxy.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RX.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/RxCocoa.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxCocoa/RxCocoa-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxCocoa.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/arm64.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxSwift.build/module.modulemap"
+interface-hash: "98ac862b3eb5f40017786f406bef20dc"

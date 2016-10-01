@@ -1,0 +1,130 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["V7RxCocoa8Reactive", ""]
+- ["V7RxCocoa8Reactive", "delegate"]
+- ["V7RxCocoa8Reactive", "didDismiss"]
+- ["V7RxCocoa8Reactive", "didPresent"]
+- ["V7RxCocoa8Reactive", "present"]
+- ["V7RxCocoa8Reactive", "willDismiss"]
+- ["V7RxCocoa8Reactive", "willPresent"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Reactive"
+- "DelegateProxy"
+- "UISearchController"
+- "Void"
+- !private "UISearchControllerDelegate"
+- "Observable"
+- !private "RxSearchControllerDelegateProxy"
+depends-member:
+- !private ["Ps9AnyObject", "E"]
+- !private ["Ps9AnyObject", "map"]
+- !private ["Ps9AnyObject", "observe"]
+- !private ["Ps9AnyObject", "proxyForObject"]
+- !private ["Ps7CVarArg", "observe"]
+- !private ["Ps7CVarArg", "proxyForObject"]
+- !private ["Ps28CustomDebugStringConvertible", "observe"]
+- !private ["Ps28CustomDebugStringConvertible", "proxyForObject"]
+- !private ["Ps23CustomStringConvertible", "observe"]
+- !private ["Ps23CustomStringConvertible", "proxyForObject"]
+- ["C7RxCocoa13DelegateProxy", "deinit"]
+- !private ["C7RxCocoa13DelegateProxy", "observe"]
+- !private ["C7RxCocoa13DelegateProxy", "proxyForObject"]
+- !private ["P7RxCocoa17DelegateProxyType", "proxyForObject"]
+- !private ["Ps9Equatable", "observe"]
+- !private ["Ps9Equatable", "proxyForObject"]
+- !private ["Ps8Hashable", "observe"]
+- !private ["Ps8Hashable", "proxyForObject"]
+- !private ["CSo8NSObject", "observe"]
+- !private ["CSo8NSObject", "proxyForObject"]
+- !private ["PSo16NSObjectProtocol", "didDismissSearchController"]
+- !private ["PSo16NSObjectProtocol", "didPresentSearchController"]
+- !private ["PSo16NSObjectProtocol", "observe"]
+- !private ["PSo16NSObjectProtocol", "presentSearchController"]
+- !private ["PSo16NSObjectProtocol", "proxyForObject"]
+- !private ["PSo16NSObjectProtocol", "willDismissSearchController"]
+- !private ["PSo16NSObjectProtocol", "willPresentSearchController"]
+- !private ["C7RxSwift10Observable", "E"]
+- ["C7RxSwift10Observable", "deinit"]
+- !private ["C7RxSwift10Observable", "map"]
+- !private ["P7RxSwift25ObservableConvertibleType", "E"]
+- !private ["P7RxSwift25ObservableConvertibleType", "map"]
+- !private ["P7RxSwift14ObservableType", "E"]
+- !private ["P7RxSwift14ObservableType", "map"]
+- ["Sq", "deinit"]
+- ["V7RxCocoa8Reactive", "DelegateProxy"]
+- ["V7RxCocoa8Reactive", "Observable"]
+- !private ["V7RxCocoa8Reactive", "RxSearchControllerDelegateProxy"]
+- ["V7RxCocoa8Reactive", "UISearchController"]
+- !private ["V7RxCocoa8Reactive", "UISearchControllerDelegate"]
+- ["V7RxCocoa8Reactive", "Void"]
+- !private ["V7RxCocoa8Reactive", "base"]
+- ["V7RxCocoa8Reactive", "deinit"]
+- ["V7RxCocoa8Reactive", "delegate"]
+- ["V7RxCocoa8Reactive", "didDismiss"]
+- ["V7RxCocoa8Reactive", "didPresent"]
+- ["V7RxCocoa8Reactive", "present"]
+- ["V7RxCocoa8Reactive", "willDismiss"]
+- ["V7RxCocoa8Reactive", "willPresent"]
+- !private ["P7RxCocoa18ReactiveCompatible", "observe"]
+- !private ["P7RxCocoa18ReactiveCompatible", "proxyForObject"]
+- ["C7RxCocoa31RxSearchControllerDelegateProxy", "deinit"]
+- !private ["C7RxCocoa31RxSearchControllerDelegateProxy", "proxyForObject"]
+- ["V10ObjectiveC8Selector", "deinit"]
+- !private ["PSo26UISearchControllerDelegate", "didDismissSearchController"]
+- !private ["PSo26UISearchControllerDelegate", "didPresentSearchController"]
+- !private ["PSo26UISearchControllerDelegate", "presentSearchController"]
+- !private ["PSo26UISearchControllerDelegate", "proxyForObject"]
+- !private ["PSo26UISearchControllerDelegate", "willDismissSearchController"]
+- !private ["PSo26UISearchControllerDelegate", "willPresentSearchController"]
+- !private ["Ps9_Hashable", "observe"]
+- !private ["Ps9_Hashable", "proxyForObject"]
+- !private ["CSo16_RXDelegateProxy", "observe"]
+- !private ["CSo16_RXDelegateProxy", "proxyForObject"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "Ps7CVarArg"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps23CustomStringConvertible"
+- "C7RxCocoa13DelegateProxy"
+- !private "P7RxCocoa17DelegateProxyType"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- "C7RxSwift10Observable"
+- !private "P7RxSwift25ObservableConvertibleType"
+- !private "P7RxSwift14ObservableType"
+- "Sq"
+- "V7RxCocoa8Reactive"
+- !private "P7RxCocoa18ReactiveCompatible"
+- "C7RxCocoa31RxSearchControllerDelegateProxy"
+- "V10ObjectiveC8Selector"
+- !private "PSo26UISearchControllerDelegate"
+- !private "Ps9_Hashable"
+- !private "CSo16_RXDelegateProxy"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXObjCRuntime.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXKVOObserver.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RXDelegateProxy.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/Common/_RX.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/RxCocoa/RxCocoa/RxCocoa.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxCocoa/RxCocoa-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxCocoa.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/arm64.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Products/Debug-iphoneos/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxSwift.build/module.modulemap"
+interface-hash: "2454c2b05382d32bb486d8d008be26f0"

@@ -1,0 +1,86 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InfiniteSequence"
+provides-nominal:
+- "V7RxSwift16InfiniteSequence"
+provides-member:
+- ["V7RxSwift16InfiniteSequence", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "InfiniteSequence"
+- "AnyIterator"
+- "AssignmentPrecedence"
+- "Sequence"
+depends-member:
+- ["Vs11AnyIterator", "Element"]
+- ["Vs11AnyIterator", "deinit"]
+- !private ["Vs11AnyIterator", "init"]
+- ["Vs11AnySequence", "Iterator"]
+- ["Vs11AnySequence", "SubSequence"]
+- ["V7RxSwift16InfiniteSequence", "AnyIterator"]
+- ["V7RxSwift16InfiniteSequence", "E"]
+- ["V7RxSwift16InfiniteSequence", "Element"]
+- ["V7RxSwift16InfiniteSequence", "Iterator"]
+- ["V7RxSwift16InfiniteSequence", "SubSequence"]
+- ["V7RxSwift16InfiniteSequence", "_copyContents"]
+- ["V7RxSwift16InfiniteSequence", "_copyToContiguousArray"]
+- ["V7RxSwift16InfiniteSequence", "_customContainsEquatableElement"]
+- ["V7RxSwift16InfiniteSequence", "_preprocessingPass"]
+- !private ["V7RxSwift16InfiniteSequence", "_repeatedValue"]
+- ["V7RxSwift16InfiniteSequence", "deinit"]
+- ["V7RxSwift16InfiniteSequence", "dropFirst"]
+- ["V7RxSwift16InfiniteSequence", "dropLast"]
+- ["V7RxSwift16InfiniteSequence", "filter"]
+- ["V7RxSwift16InfiniteSequence", "first"]
+- ["V7RxSwift16InfiniteSequence", "forEach"]
+- ["V7RxSwift16InfiniteSequence", "init"]
+- ["V7RxSwift16InfiniteSequence", "makeIterator"]
+- ["V7RxSwift16InfiniteSequence", "map"]
+- ["V7RxSwift16InfiniteSequence", "prefix"]
+- ["V7RxSwift16InfiniteSequence", "split"]
+- ["V7RxSwift16InfiniteSequence", "suffix"]
+- ["V7RxSwift16InfiniteSequence", "underestimatedCount"]
+- ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps16IteratorProtocol", "init"]
+- !private ["Ps8Sequence", "AnyIterator"]
+- ["Ps8Sequence", "Element"]
+- ["Ps8Sequence", "Iterator"]
+- ["Ps8Sequence", "SubSequence"]
+- ["Ps8Sequence", "_copyContents"]
+- ["Ps8Sequence", "_copyToContiguousArray"]
+- ["Ps8Sequence", "_customContainsEquatableElement"]
+- ["Ps8Sequence", "_preprocessingPass"]
+- !private ["Ps8Sequence", "_repeatedValue"]
+- ["Ps8Sequence", "dropFirst"]
+- ["Ps8Sequence", "dropLast"]
+- ["Ps8Sequence", "filter"]
+- ["Ps8Sequence", "first"]
+- ["Ps8Sequence", "forEach"]
+- !private ["Ps8Sequence", "init"]
+- ["Ps8Sequence", "makeIterator"]
+- ["Ps8Sequence", "map"]
+- ["Ps8Sequence", "prefix"]
+- ["Ps8Sequence", "split"]
+- ["Ps8Sequence", "suffix"]
+- ["Ps8Sequence", "underestimatedCount"]
+- ["Ps8Sequence", ""]
+depends-nominal:
+- "Vs11AnyIterator"
+- "Vs11AnySequence"
+- "V7RxSwift16InfiniteSequence"
+- "Ps16IteratorProtocol"
+- "Ps8Sequence"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "817e5d3be0f645315494a6b0c03bd02a"

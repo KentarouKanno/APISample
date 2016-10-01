@@ -1,0 +1,181 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AtomicInt"
+- "AtomicCompareAndSwap"
+- "AtomicIncrement"
+- "AtomicDecrement"
+provides-nominal:
+provides-member:
+- ["CSo6Thread", ""]
+- ["CSo6Thread", "setThreadLocalStorageValue"]
+- ["CSo6Thread", "getThreadLocalStorageValueForKey"]
+provides-dynamic-lookup:
+depends-top-level:
+- "OSAtomicDecrement32"
+- "AtomicIncrement"
+- "CastingPrecedence"
+- "AnyObject"
+- "NSCopying"
+- "Thread"
+- "AtomicInt"
+- "AtomicDecrement"
+- "AtomicCompareAndSwap"
+- "Int32"
+- "OSAtomicCompareAndSwap32"
+- "OSAtomicIncrement32"
+depends-member:
+- !private ["Ps9AnyObject", "Thread"]
+- !private ["Ps9AnyObject", "current"]
+- ["Ps9AnyObject", "getThreadLocalStorageValueForKey"]
+- !private ["Ps9AnyObject", "removeObject"]
+- !private ["Ps9AnyObject", "setObject"]
+- ["Ps9AnyObject", "setThreadLocalStorageValue"]
+- !private ["Ps9AnyObject", "subscript"]
+- !private ["Ps9AnyObject", "threadDictionary"]
+- !private ["Ps7CVarArg", "Thread"]
+- !private ["Ps7CVarArg", "current"]
+- ["Ps7CVarArg", "getThreadLocalStorageValueForKey"]
+- !private ["Ps7CVarArg", "removeObject"]
+- !private ["Ps7CVarArg", "setObject"]
+- ["Ps7CVarArg", "setThreadLocalStorageValue"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps7CVarArg", "threadDictionary"]
+- !private ["Ps28CustomDebugStringConvertible", "Thread"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- ["Ps28CustomDebugStringConvertible", "getThreadLocalStorageValueForKey"]
+- !private ["Ps28CustomDebugStringConvertible", "removeObject"]
+- !private ["Ps28CustomDebugStringConvertible", "setObject"]
+- ["Ps28CustomDebugStringConvertible", "setThreadLocalStorageValue"]
+- ["Ps28CustomDebugStringConvertible", "some"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "threadDictionary"]
+- !private ["Ps17CustomReflectable", "removeObject"]
+- !private ["Ps17CustomReflectable", "setObject"]
+- ["Ps17CustomReflectable", "some"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "Thread"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- ["Ps23CustomStringConvertible", "getThreadLocalStorageValueForKey"]
+- !private ["Ps23CustomStringConvertible", "removeObject"]
+- !private ["Ps23CustomStringConvertible", "setObject"]
+- ["Ps23CustomStringConvertible", "setThreadLocalStorageValue"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Ps23CustomStringConvertible", "threadDictionary"]
+- !private ["Ps9Equatable", "Thread"]
+- !private ["Ps9Equatable", "current"]
+- ["Ps9Equatable", "getThreadLocalStorageValueForKey"]
+- !private ["Ps9Equatable", "removeObject"]
+- !private ["Ps9Equatable", "setObject"]
+- ["Ps9Equatable", "setThreadLocalStorageValue"]
+- !private ["Ps9Equatable", "subscript"]
+- !private ["Ps9Equatable", "threadDictionary"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "removeObject"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "setObject"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- ["Ps23ExpressibleByNilLiteral", "some"]
+- !private ["Ps8Hashable", "Thread"]
+- !private ["Ps8Hashable", "current"]
+- ["Ps8Hashable", "getThreadLocalStorageValueForKey"]
+- !private ["Ps8Hashable", "removeObject"]
+- !private ["Ps8Hashable", "setObject"]
+- ["Ps8Hashable", "setThreadLocalStorageValue"]
+- !private ["Ps8Hashable", "subscript"]
+- !private ["Ps8Hashable", "threadDictionary"]
+- !private ["PSo8NSCoding", "removeObject"]
+- !private ["PSo8NSCoding", "setObject"]
+- !private ["PSo8NSCoding", "subscript"]
+- !private ["PSo9NSCopying", "removeObject"]
+- !private ["PSo9NSCopying", "setObject"]
+- !private ["PSo9NSCopying", "subscript"]
+- !private ["CSo12NSDictionary", "removeObject"]
+- !private ["CSo12NSDictionary", "setObject"]
+- !private ["CSo12NSDictionary", "subscript"]
+- !private ["PSo17NSFastEnumeration", "removeObject"]
+- !private ["PSo17NSFastEnumeration", "setObject"]
+- !private ["PSo17NSFastEnumeration", "subscript"]
+- !private ["PSo16NSMutableCopying", "removeObject"]
+- !private ["PSo16NSMutableCopying", "setObject"]
+- !private ["PSo16NSMutableCopying", "subscript"]
+- ["CSo19NSMutableDictionary", "deinit"]
+- !private ["CSo19NSMutableDictionary", "removeObject"]
+- !private ["CSo19NSMutableDictionary", "setObject"]
+- !private ["CSo19NSMutableDictionary", "subscript"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "NSCopying"]
+- !private ["CSo8NSObject", "Thread"]
+- !private ["CSo8NSObject", "current"]
+- ["CSo8NSObject", "getThreadLocalStorageValueForKey"]
+- !private ["CSo8NSObject", "removeObject"]
+- !private ["CSo8NSObject", "setObject"]
+- ["CSo8NSObject", "setThreadLocalStorageValue"]
+- !private ["CSo8NSObject", "subscript"]
+- !private ["CSo8NSObject", "threadDictionary"]
+- !private ["PSo16NSObjectProtocol", "Thread"]
+- !private ["PSo16NSObjectProtocol", "current"]
+- ["PSo16NSObjectProtocol", "getThreadLocalStorageValueForKey"]
+- !private ["PSo16NSObjectProtocol", "removeObject"]
+- !private ["PSo16NSObjectProtocol", "setObject"]
+- ["PSo16NSObjectProtocol", "setThreadLocalStorageValue"]
+- !private ["PSo16NSObjectProtocol", "subscript"]
+- !private ["PSo16NSObjectProtocol", "threadDictionary"]
+- !private ["PSo14NSSecureCoding", "removeObject"]
+- !private ["PSo14NSSecureCoding", "setObject"]
+- !private ["PSo14NSSecureCoding", "subscript"]
+- ["Sq", "deinit"]
+- ["Sq", "some"]
+- !private ["Ps8Sequence", "removeObject"]
+- !private ["Ps8Sequence", "setObject"]
+- !private ["Ps8Sequence", "subscript"]
+- ["CSo6Thread", "AnyObject"]
+- ["CSo6Thread", "NSCopying"]
+- !private ["CSo6Thread", "Thread"]
+- !private ["CSo6Thread", "current"]
+- ["CSo6Thread", "deinit"]
+- ["CSo6Thread", "getThreadLocalStorageValueForKey"]
+- ["CSo6Thread", "setThreadLocalStorageValue"]
+- !private ["CSo6Thread", "threadDictionary"]
+- !private ["Ps9_Hashable", "Thread"]
+- !private ["Ps9_Hashable", "current"]
+- ["Ps9_Hashable", "getThreadLocalStorageValueForKey"]
+- !private ["Ps9_Hashable", "removeObject"]
+- !private ["Ps9_Hashable", "setObject"]
+- ["Ps9_Hashable", "setThreadLocalStorageValue"]
+- !private ["Ps9_Hashable", "subscript"]
+- !private ["Ps9_Hashable", "threadDictionary"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- "Ps23ExpressibleByNilLiteral"
+- "Ps8Hashable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo12NSDictionary"
+- !private "PSo17NSFastEnumeration"
+- !private "PSo16NSMutableCopying"
+- "CSo19NSMutableDictionary"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "Sq"
+- !private "Ps8Sequence"
+- "CSo6Thread"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Pods/Target Support Files/RxSwift/RxSwift-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample(Alamofire,SwiftyJSON,RxSwift)/Build/Intermediates/Pods.build/Debug-iphoneos/RxSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "ad8b418c98e7fc42f314d7bdb6a72d85"
