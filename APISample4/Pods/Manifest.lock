@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.0.1)
+  - KeychainAccess (3.0.0)
+  - R.swift (3.0.0):
+    - R.swift.Library (~> 3.0.0)
+  - R.swift.Library (3.0.1)
+  - ReachabilitySwift (3)
+  - Realm (2.0.1):
+    - Realm/Headers (= 2.0.1)
+  - Realm/Headers (2.0.1)
+  - RealmSwift (2.0.1):
+    - Realm (= 2.0.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0.3)
+  - SwiftyJSON (3.1.0)
+  - VTAcknowledgementsViewController (1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - KeychainAccess
+  - R.swift
+  - ReachabilitySwift (~> 3)
+  - RealmSwift
+  - SDWebImage (~> 3.8)
+  - SVProgressHUD
+  - SwiftyJSON
+  - VTAcknowledgementsViewController
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  KeychainAccess: 412bf2650d9aebfc8135a58103b90ec38caad7f8
+  R.swift: 5a8b4a4ea565b0f20c39d8ce1445f3d3a9064768
+  R.swift.Library: 0869d8d546517aa79db078fd8262724391a38db8
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Realm: 0557ee0e4ab4f0936c90e370056d1ed6265f93d6
+  RealmSwift: 64e00af79bdcd7d2a7a23fdc1cb3faf22b80ae4c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyJSON: 29b9f2a64f118c07e691667c2ba1efe536acfe0b
+  VTAcknowledgementsViewController: 44da49d57a1dbf414e653688793a130d24af151e
+
+PODFILE CHECKSUM: d883e5bfedbb09bc5addcd830167065510d10ce0
+
+COCOAPODS: 1.1.0.rc.2

@@ -1,0 +1,99 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StoryboardSegueIdentifierType"
+- "StoryboardSegueIdentifier"
+- "TypedStoryboardSegueInfo"
+- "StoryboardSegue"
+provides-nominal:
+- "P6Rswift29StoryboardSegueIdentifierType"
+- "V6Rswift25StoryboardSegueIdentifier"
+- "V6Rswift24TypedStoryboardSegueInfo"
+- "V6Rswift15StoryboardSegue"
+provides-member:
+- ["P6Rswift29StoryboardSegueIdentifierType", ""]
+- ["V6Rswift25StoryboardSegueIdentifier", ""]
+- ["V6Rswift24TypedStoryboardSegueInfo", ""]
+- ["V6Rswift15StoryboardSegue", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "StoryboardSegueIdentifierType"
+- "String"
+- "AssignmentPrecedence"
+- "StoryboardSegueIdentifier"
+- "StoryboardSegue"
+- "TypedStoryboardSegueInfo"
+- "IdentifierType"
+depends-member:
+- !private ["Ps23CustomStringConvertible", "StoryboardSegue"]
+- ["Ps23CustomStringConvertible", "description"]
+- ["Ps23CustomStringConvertible", "identifier"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["P6Rswift14IdentifierType", "StoryboardSegue"]
+- ["P6Rswift14IdentifierType", "description"]
+- ["P6Rswift14IdentifierType", "identifier"]
+- ["P6Rswift14IdentifierType", ""]
+- ["V6Rswift15StoryboardSegue", "Destination"]
+- ["V6Rswift15StoryboardSegue", "Segue"]
+- ["V6Rswift15StoryboardSegue", "Source"]
+- ["V6Rswift15StoryboardSegue", "StoryboardSegueIdentifier"]
+- ["V6Rswift15StoryboardSegue", "deinit"]
+- ["V6Rswift15StoryboardSegue", "identifier"]
+- ["V6Rswift15StoryboardSegue", "init"]
+- ["V6Rswift15StoryboardSegue", "source"]
+- ["V6Rswift25StoryboardSegueIdentifier", "Destination"]
+- ["V6Rswift25StoryboardSegueIdentifier", "DestinationType"]
+- ["V6Rswift25StoryboardSegueIdentifier", "Segue"]
+- ["V6Rswift25StoryboardSegueIdentifier", "SegueType"]
+- ["V6Rswift25StoryboardSegueIdentifier", "Source"]
+- ["V6Rswift25StoryboardSegueIdentifier", "SourceType"]
+- ["V6Rswift25StoryboardSegueIdentifier", "StoryboardSegue"]
+- ["V6Rswift25StoryboardSegueIdentifier", "String"]
+- ["V6Rswift25StoryboardSegueIdentifier", "deinit"]
+- ["V6Rswift25StoryboardSegueIdentifier", "description"]
+- ["V6Rswift25StoryboardSegueIdentifier", "identifier"]
+- ["V6Rswift25StoryboardSegueIdentifier", "init"]
+- ["V6Rswift25StoryboardSegueIdentifier", "storyboardSegue"]
+- ["P6Rswift29StoryboardSegueIdentifierType", "DestinationType"]
+- ["P6Rswift29StoryboardSegueIdentifierType", "SegueType"]
+- ["P6Rswift29StoryboardSegueIdentifierType", "SourceType"]
+- !private ["P6Rswift29StoryboardSegueIdentifierType", "StoryboardSegue"]
+- ["P6Rswift29StoryboardSegueIdentifierType", "description"]
+- ["P6Rswift29StoryboardSegueIdentifierType", "identifier"]
+- ["P6Rswift29StoryboardSegueIdentifierType", ""]
+- ["SS", "deinit"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "Destination"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "DestinationType"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "Segue"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "SegueType"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "Source"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "SourceType"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "String"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "deinit"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "description"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "destination"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "identifier"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "init"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "segue"]
+- ["V6Rswift24TypedStoryboardSegueInfo", "source"]
+depends-nominal:
+- "Ps23CustomStringConvertible"
+- "P6Rswift14IdentifierType"
+- "V6Rswift15StoryboardSegue"
+- "V6Rswift25StoryboardSegueIdentifier"
+- "P6Rswift29StoryboardSegueIdentifierType"
+- "SS"
+- "V6Rswift24TypedStoryboardSegueInfo"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/Target Support Files/R.swift.Library/R.swift.Library-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Build/Intermediates/Pods.build/Debug-iphoneos/R.swift.Library.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "162d293ead0b0b490f5d78abc6dbe448"

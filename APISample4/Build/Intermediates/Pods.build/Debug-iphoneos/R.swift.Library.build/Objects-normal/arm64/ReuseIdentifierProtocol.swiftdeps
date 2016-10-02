@@ -1,0 +1,56 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ReuseIdentifierType"
+- "ReuseIdentifier"
+provides-nominal:
+- "P6Rswift19ReuseIdentifierType"
+- "V6Rswift15ReuseIdentifier"
+provides-member:
+- ["P6Rswift19ReuseIdentifierType", ""]
+- ["V6Rswift15ReuseIdentifier", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ReuseIdentifierType"
+- "IdentifierType"
+- "String"
+- "ReuseIdentifier"
+- "AssignmentPrecedence"
+depends-member:
+- ["Ps23CustomStringConvertible", "description"]
+- ["Ps23CustomStringConvertible", "identifier"]
+- ["Ps23CustomStringConvertible", ""]
+- ["P6Rswift14IdentifierType", "description"]
+- ["P6Rswift14IdentifierType", "identifier"]
+- ["P6Rswift14IdentifierType", ""]
+- ["V6Rswift15ReuseIdentifier", "Reusable"]
+- ["V6Rswift15ReuseIdentifier", "ReusableType"]
+- ["V6Rswift15ReuseIdentifier", "String"]
+- ["V6Rswift15ReuseIdentifier", "deinit"]
+- ["V6Rswift15ReuseIdentifier", "description"]
+- ["V6Rswift15ReuseIdentifier", "identifier"]
+- ["V6Rswift15ReuseIdentifier", "init"]
+- ["P6Rswift19ReuseIdentifierType", "ReusableType"]
+- ["P6Rswift19ReuseIdentifierType", "description"]
+- ["P6Rswift19ReuseIdentifierType", "identifier"]
+- ["P6Rswift19ReuseIdentifierType", ""]
+- ["SS", "deinit"]
+depends-nominal:
+- "Ps23CustomStringConvertible"
+- "P6Rswift14IdentifierType"
+- "V6Rswift15ReuseIdentifier"
+- "P6Rswift19ReuseIdentifierType"
+- "SS"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/Target Support Files/R.swift.Library/R.swift.Library-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Build/Intermediates/Pods.build/Debug-iphoneos/R.swift.Library.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "67c045091bf3743596bfebdf26c1182c"

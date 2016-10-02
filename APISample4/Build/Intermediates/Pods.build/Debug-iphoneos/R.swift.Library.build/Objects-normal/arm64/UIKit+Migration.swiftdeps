@@ -1,0 +1,381 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["P6Rswift15NibResourceType", ""]
+- ["P6Rswift43StoryboardResourceWithInitialControllerType", ""]
+- ["CSo16UICollectionView", ""]
+- ["CSo11UITableView", ""]
+- ["P6Rswift18SeguePerformerType", ""]
+- ["P6Rswift15NibResourceType", "instantiateWithOwner"]
+- ["P6Rswift43StoryboardResourceWithInitialControllerType", "initialViewController"]
+- ["CSo16UICollectionView", "dequeueReusableCellWithReuseIdentifier"]
+- ["CSo16UICollectionView", "dequeueReusableSupplementaryViewOfKind"]
+- ["CSo16UICollectionView", "registerNibs"]
+- ["CSo16UICollectionView", "registerNib"]
+- ["CSo16UICollectionView", "registerNibs"]
+- ["CSo16UICollectionView", "registerNib"]
+- ["CSo11UITableView", "dequeueReusableCellWithIdentifier"]
+- ["CSo11UITableView", "dequeueReusableCellWithIdentifier"]
+- ["CSo11UITableView", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["CSo11UITableView", "registerNibs"]
+- ["CSo11UITableView", "registerNib"]
+- ["CSo11UITableView", "registerNibForHeaderFooterView"]
+- ["P6Rswift18SeguePerformerType", "performSegueWithIdentifier"]
+- ["P6Rswift18SeguePerformerType", "performSegueWithIdentifier"]
+provides-dynamic-lookup:
+depends-top-level:
+- "ReuseIdentifierType"
+- "NibResourceType"
+- "UITableViewHeaderFooterView"
+- "UICollectionReusableView"
+- !private "StringLiteralType"
+- "String"
+- "NSObject"
+- "IndexPath"
+- !private "fatalError"
+- "UICollectionViewCell"
+- "UIView"
+- "StoryboardResourceWithInitialControllerType"
+- "UITableView"
+- "AnyObject"
+- "UICollectionView"
+- "SeguePerformerType"
+- "UITableViewCell"
+- "StoryboardSegueIdentifier"
+depends-member:
+- ["Ps9AnyObject", "dequeueReusableCellWithIdentifier"]
+- ["Ps9AnyObject", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps9AnyObject", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps9AnyObject", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps9AnyObject", "fatalError"]
+- ["Ps9AnyObject", "registerNib"]
+- ["Ps9AnyObject", "registerNibForHeaderFooterView"]
+- ["Ps9AnyObject", "registerNibs"]
+- ["PSo15CALayerDelegate", "dequeueReusableCellWithIdentifier"]
+- ["PSo15CALayerDelegate", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo15CALayerDelegate", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo15CALayerDelegate", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo15CALayerDelegate", "fatalError"]
+- ["PSo15CALayerDelegate", "registerNib"]
+- ["PSo15CALayerDelegate", "registerNibForHeaderFooterView"]
+- ["PSo15CALayerDelegate", "registerNibs"]
+- ["Ps7CVarArg", "dequeueReusableCellWithIdentifier"]
+- ["Ps7CVarArg", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps7CVarArg", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps7CVarArg", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps7CVarArg", "fatalError"]
+- ["Ps7CVarArg", "registerNib"]
+- ["Ps7CVarArg", "registerNibForHeaderFooterView"]
+- ["Ps7CVarArg", "registerNibs"]
+- ["Ps28CustomDebugStringConvertible", "dequeueReusableCellWithIdentifier"]
+- ["Ps28CustomDebugStringConvertible", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps28CustomDebugStringConvertible", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps28CustomDebugStringConvertible", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps28CustomDebugStringConvertible", "fatalError"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "registerNib"]
+- ["Ps28CustomDebugStringConvertible", "registerNibForHeaderFooterView"]
+- ["Ps28CustomDebugStringConvertible", "registerNibs"]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "dequeueReusableCellWithIdentifier"]
+- ["Ps23CustomStringConvertible", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps23CustomStringConvertible", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps23CustomStringConvertible", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps23CustomStringConvertible", "fatalError"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "registerNib"]
+- ["Ps23CustomStringConvertible", "registerNibForHeaderFooterView"]
+- ["Ps23CustomStringConvertible", "registerNibs"]
+- ["Ps9Equatable", "dequeueReusableCellWithIdentifier"]
+- ["Ps9Equatable", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps9Equatable", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps9Equatable", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps9Equatable", "fatalError"]
+- ["Ps9Equatable", "registerNib"]
+- ["Ps9Equatable", "registerNibForHeaderFooterView"]
+- ["Ps9Equatable", "registerNibs"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "dequeueReusableCellWithIdentifier"]
+- ["Ps8Hashable", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps8Hashable", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps8Hashable", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps8Hashable", "fatalError"]
+- ["Ps8Hashable", "registerNib"]
+- ["Ps8Hashable", "registerNibForHeaderFooterView"]
+- ["Ps8Hashable", "registerNibs"]
+- ["PSo8NSCoding", "dequeueReusableCellWithIdentifier"]
+- ["PSo8NSCoding", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo8NSCoding", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo8NSCoding", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo8NSCoding", "fatalError"]
+- ["PSo8NSCoding", "registerNib"]
+- ["PSo8NSCoding", "registerNibForHeaderFooterView"]
+- ["PSo8NSCoding", "registerNibs"]
+- ["CSo8NSObject", "IndexPath"]
+- ["CSo8NSObject", "NibResourceType"]
+- ["CSo8NSObject", "ReuseIdentifierType"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UICollectionReusableView"]
+- ["CSo8NSObject", "UICollectionViewCell"]
+- ["CSo8NSObject", "UITableViewCell"]
+- ["CSo8NSObject", "UITableViewHeaderFooterView"]
+- ["CSo8NSObject", "UIView"]
+- ["CSo8NSObject", "dequeueReusableCellWithIdentifier"]
+- ["CSo8NSObject", "dequeueReusableCellWithReuseIdentifier"]
+- ["CSo8NSObject", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["CSo8NSObject", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["CSo8NSObject", "fatalError"]
+- ["CSo8NSObject", "registerNib"]
+- ["CSo8NSObject", "registerNibForHeaderFooterView"]
+- ["CSo8NSObject", "registerNibs"]
+- ["PSo16NSObjectProtocol", "dequeueReusableCellWithIdentifier"]
+- ["PSo16NSObjectProtocol", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo16NSObjectProtocol", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo16NSObjectProtocol", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo16NSObjectProtocol", "fatalError"]
+- ["PSo16NSObjectProtocol", "registerNib"]
+- ["PSo16NSObjectProtocol", "registerNibForHeaderFooterView"]
+- ["PSo16NSObjectProtocol", "registerNibs"]
+- ["Os5Never", "deinit"]
+- ["P6Rswift15NibResourceType", "AnyObject"]
+- ["P6Rswift15NibResourceType", "NSObject"]
+- !private ["P6Rswift15NibResourceType", "fatalError"]
+- ["P6Rswift15NibResourceType", "instantiateWithOwner"]
+- !private ["Sq", "deinit"]
+- ["P6Rswift18SeguePerformerType", "Self"]
+- ["P6Rswift18SeguePerformerType", "StoryboardSegueIdentifier"]
+- ["P6Rswift18SeguePerformerType", "String"]
+- !private ["P6Rswift18SeguePerformerType", "fatalError"]
+- ["P6Rswift18SeguePerformerType", "performSegueWithIdentifier"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["P6Rswift22StoryboardResourceType", "InitialController"]
+- !private ["P6Rswift22StoryboardResourceType", "fatalError"]
+- ["P6Rswift43StoryboardResourceWithInitialControllerType", "InitialController"]
+- !private ["P6Rswift43StoryboardResourceWithInitialControllerType", "fatalError"]
+- ["P6Rswift43StoryboardResourceWithInitialControllerType", "initialViewController"]
+- ["PSo29UIAccessibilityIdentification", "dequeueReusableCellWithIdentifier"]
+- ["PSo29UIAccessibilityIdentification", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo29UIAccessibilityIdentification", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo29UIAccessibilityIdentification", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo29UIAccessibilityIdentification", "fatalError"]
+- ["PSo29UIAccessibilityIdentification", "registerNib"]
+- ["PSo29UIAccessibilityIdentification", "registerNibForHeaderFooterView"]
+- ["PSo29UIAccessibilityIdentification", "registerNibs"]
+- ["PSo12UIAppearance", "dequeueReusableCellWithIdentifier"]
+- ["PSo12UIAppearance", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo12UIAppearance", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo12UIAppearance", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo12UIAppearance", "fatalError"]
+- ["PSo12UIAppearance", "registerNib"]
+- ["PSo12UIAppearance", "registerNibForHeaderFooterView"]
+- ["PSo12UIAppearance", "registerNibs"]
+- ["PSo21UIAppearanceContainer", "dequeueReusableCellWithIdentifier"]
+- ["PSo21UIAppearanceContainer", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo21UIAppearanceContainer", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo21UIAppearanceContainer", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo21UIAppearanceContainer", "fatalError"]
+- ["PSo21UIAppearanceContainer", "registerNib"]
+- ["PSo21UIAppearanceContainer", "registerNibForHeaderFooterView"]
+- ["PSo21UIAppearanceContainer", "registerNibs"]
+- ["CSo16UICollectionView", "IndexPath"]
+- ["CSo16UICollectionView", "NibResourceType"]
+- ["CSo16UICollectionView", "ReuseIdentifierType"]
+- ["CSo16UICollectionView", "String"]
+- ["CSo16UICollectionView", "UICollectionReusableView"]
+- ["CSo16UICollectionView", "UICollectionViewCell"]
+- ["CSo16UICollectionView", "dequeueReusableCellWithReuseIdentifier"]
+- ["CSo16UICollectionView", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["CSo16UICollectionView", "fatalError"]
+- ["CSo16UICollectionView", "registerNib"]
+- ["CSo16UICollectionView", "registerNibs"]
+- ["PSo17UICoordinateSpace", "dequeueReusableCellWithIdentifier"]
+- ["PSo17UICoordinateSpace", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo17UICoordinateSpace", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo17UICoordinateSpace", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo17UICoordinateSpace", "fatalError"]
+- ["PSo17UICoordinateSpace", "registerNib"]
+- ["PSo17UICoordinateSpace", "registerNibForHeaderFooterView"]
+- ["PSo17UICoordinateSpace", "registerNibs"]
+- ["PSo13UIDynamicItem", "dequeueReusableCellWithIdentifier"]
+- ["PSo13UIDynamicItem", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo13UIDynamicItem", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo13UIDynamicItem", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo13UIDynamicItem", "fatalError"]
+- ["PSo13UIDynamicItem", "registerNib"]
+- ["PSo13UIDynamicItem", "registerNibForHeaderFooterView"]
+- ["PSo13UIDynamicItem", "registerNibs"]
+- ["PSo18UIFocusEnvironment", "dequeueReusableCellWithIdentifier"]
+- ["PSo18UIFocusEnvironment", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo18UIFocusEnvironment", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo18UIFocusEnvironment", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo18UIFocusEnvironment", "fatalError"]
+- ["PSo18UIFocusEnvironment", "registerNib"]
+- ["PSo18UIFocusEnvironment", "registerNibForHeaderFooterView"]
+- ["PSo18UIFocusEnvironment", "registerNibs"]
+- ["PSo11UIFocusItem", "dequeueReusableCellWithIdentifier"]
+- ["PSo11UIFocusItem", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo11UIFocusItem", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo11UIFocusItem", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo11UIFocusItem", "fatalError"]
+- ["PSo11UIFocusItem", "registerNib"]
+- ["PSo11UIFocusItem", "registerNibForHeaderFooterView"]
+- ["PSo11UIFocusItem", "registerNibs"]
+- ["CSo11UIResponder", "IndexPath"]
+- ["CSo11UIResponder", "NibResourceType"]
+- ["CSo11UIResponder", "ReuseIdentifierType"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UICollectionReusableView"]
+- ["CSo11UIResponder", "UICollectionViewCell"]
+- ["CSo11UIResponder", "UITableViewCell"]
+- ["CSo11UIResponder", "UITableViewHeaderFooterView"]
+- ["CSo11UIResponder", "UIView"]
+- ["CSo11UIResponder", "dequeueReusableCellWithIdentifier"]
+- ["CSo11UIResponder", "dequeueReusableCellWithReuseIdentifier"]
+- ["CSo11UIResponder", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["CSo11UIResponder", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["CSo11UIResponder", "fatalError"]
+- ["CSo11UIResponder", "registerNib"]
+- ["CSo11UIResponder", "registerNibForHeaderFooterView"]
+- ["CSo11UIResponder", "registerNibs"]
+- ["PSo30UIResponderStandardEditActions", "dequeueReusableCellWithIdentifier"]
+- ["PSo30UIResponderStandardEditActions", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo30UIResponderStandardEditActions", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo30UIResponderStandardEditActions", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo30UIResponderStandardEditActions", "fatalError"]
+- ["PSo30UIResponderStandardEditActions", "registerNib"]
+- ["PSo30UIResponderStandardEditActions", "registerNibForHeaderFooterView"]
+- ["PSo30UIResponderStandardEditActions", "registerNibs"]
+- ["CSo12UIScrollView", "IndexPath"]
+- ["CSo12UIScrollView", "NibResourceType"]
+- ["CSo12UIScrollView", "ReuseIdentifierType"]
+- ["CSo12UIScrollView", "String"]
+- ["CSo12UIScrollView", "UICollectionReusableView"]
+- ["CSo12UIScrollView", "UICollectionViewCell"]
+- ["CSo12UIScrollView", "UITableViewCell"]
+- ["CSo12UIScrollView", "UITableViewHeaderFooterView"]
+- ["CSo12UIScrollView", "UIView"]
+- ["CSo12UIScrollView", "dequeueReusableCellWithIdentifier"]
+- ["CSo12UIScrollView", "dequeueReusableCellWithReuseIdentifier"]
+- ["CSo12UIScrollView", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["CSo12UIScrollView", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["CSo12UIScrollView", "fatalError"]
+- ["CSo12UIScrollView", "registerNib"]
+- ["CSo12UIScrollView", "registerNibForHeaderFooterView"]
+- ["CSo12UIScrollView", "registerNibs"]
+- ["CSo11UITableView", "IndexPath"]
+- ["CSo11UITableView", "NibResourceType"]
+- ["CSo11UITableView", "ReuseIdentifierType"]
+- ["CSo11UITableView", "UITableViewCell"]
+- ["CSo11UITableView", "UITableViewHeaderFooterView"]
+- ["CSo11UITableView", "UIView"]
+- ["CSo11UITableView", "dequeueReusableCellWithIdentifier"]
+- ["CSo11UITableView", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- !private ["CSo11UITableView", "fatalError"]
+- ["CSo11UITableView", "registerNib"]
+- ["CSo11UITableView", "registerNibForHeaderFooterView"]
+- ["CSo11UITableView", "registerNibs"]
+- ["PSo18UITraitEnvironment", "dequeueReusableCellWithIdentifier"]
+- ["PSo18UITraitEnvironment", "dequeueReusableCellWithReuseIdentifier"]
+- ["PSo18UITraitEnvironment", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["PSo18UITraitEnvironment", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["PSo18UITraitEnvironment", "fatalError"]
+- ["PSo18UITraitEnvironment", "registerNib"]
+- ["PSo18UITraitEnvironment", "registerNibForHeaderFooterView"]
+- ["PSo18UITraitEnvironment", "registerNibs"]
+- ["CSo6UIView", "IndexPath"]
+- ["CSo6UIView", "NibResourceType"]
+- ["CSo6UIView", "ReuseIdentifierType"]
+- ["CSo6UIView", "String"]
+- ["CSo6UIView", "UICollectionReusableView"]
+- ["CSo6UIView", "UICollectionViewCell"]
+- ["CSo6UIView", "UITableViewCell"]
+- ["CSo6UIView", "UITableViewHeaderFooterView"]
+- ["CSo6UIView", "UIView"]
+- ["CSo6UIView", "dequeueReusableCellWithIdentifier"]
+- ["CSo6UIView", "dequeueReusableCellWithReuseIdentifier"]
+- ["CSo6UIView", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["CSo6UIView", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["CSo6UIView", "fatalError"]
+- ["CSo6UIView", "registerNib"]
+- ["CSo6UIView", "registerNibForHeaderFooterView"]
+- ["CSo6UIView", "registerNibs"]
+- ["Su", "deinit"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "dequeueReusableCellWithIdentifier"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "fatalError"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "registerNib"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "registerNibForHeaderFooterView"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "registerNibs"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps9_Hashable", "dequeueReusableCellWithIdentifier"]
+- ["Ps9_Hashable", "dequeueReusableCellWithReuseIdentifier"]
+- ["Ps9_Hashable", "dequeueReusableHeaderFooterViewWithIdentifier"]
+- ["Ps9_Hashable", "dequeueReusableSupplementaryViewOfKind"]
+- !private ["Ps9_Hashable", "fatalError"]
+- ["Ps9_Hashable", "registerNib"]
+- ["Ps9_Hashable", "registerNibForHeaderFooterView"]
+- ["Ps9_Hashable", "registerNibs"]
+depends-nominal:
+- "Ps9AnyObject"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Os5Never"
+- "P6Rswift15NibResourceType"
+- !private "Sq"
+- "P6Rswift18SeguePerformerType"
+- "Vs12StaticString"
+- "P6Rswift22StoryboardResourceType"
+- "P6Rswift43StoryboardResourceWithInitialControllerType"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo16UICollectionView"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo12UIScrollView"
+- "CSo11UITableView"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Su"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/Target Support Files/R.swift.Library/R.swift.Library-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Build/Intermediates/Pods.build/Debug-iphoneos/R.swift.Library.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "4d26a36109708720549c0295d4639f79"

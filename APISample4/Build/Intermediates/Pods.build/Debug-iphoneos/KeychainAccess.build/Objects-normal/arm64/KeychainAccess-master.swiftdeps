@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "30e80cc1d8da8b8a1634bfe7fdab5e0d"
+build_time: [528706789, 221128000]
+inputs:
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/KeychainAccess/Lib/KeychainAccess/Keychain.swift": [528705642, 0]

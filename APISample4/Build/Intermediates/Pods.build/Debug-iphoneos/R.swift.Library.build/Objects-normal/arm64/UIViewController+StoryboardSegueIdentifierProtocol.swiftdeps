@@ -1,0 +1,98 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SeguePerformerType"
+provides-nominal:
+- "P6Rswift18SeguePerformerType"
+- "CSo16UIViewController"
+provides-member:
+- ["P6Rswift18SeguePerformerType", ""]
+- ["CSo16UIViewController", ""]
+- ["V6Rswift15StoryboardSegue", ""]
+- ["P6Rswift18SeguePerformerType", "performSegue"]
+- ["V6Rswift15StoryboardSegue", "performSegue"]
+provides-dynamic-lookup:
+depends-top-level:
+- "SeguePerformerType"
+- "String"
+- "StoryboardSegueIdentifier"
+- "UIViewController"
+- "StoryboardSegue"
+depends-member:
+- ["Ps9AnyObject", "performSegue"]
+- ["Ps7CVarArg", "performSegue"]
+- ["Ps28CustomDebugStringConvertible", "performSegue"]
+- !private ["Ps23CustomStringConvertible", "identifier"]
+- ["Ps23CustomStringConvertible", "performSegue"]
+- ["Ps9Equatable", "performSegue"]
+- ["Ps8Hashable", "performSegue"]
+- !private ["P6Rswift14IdentifierType", "identifier"]
+- ["PSo8NSCoding", "performSegue"]
+- ["PSo26NSExtensionRequestHandling", "performSegue"]
+- ["CSo8NSObject", "performSegue"]
+- ["PSo16NSObjectProtocol", "performSegue"]
+- ["Sq", "deinit"]
+- ["P6Rswift18SeguePerformerType", "Self"]
+- ["P6Rswift18SeguePerformerType", "StoryboardSegueIdentifier"]
+- ["P6Rswift18SeguePerformerType", "String"]
+- ["P6Rswift18SeguePerformerType", "performSegue"]
+- ["P6Rswift18SeguePerformerType", ""]
+- ["V6Rswift15StoryboardSegue", "UIViewController"]
+- ["V6Rswift15StoryboardSegue", "deinit"]
+- !private ["V6Rswift15StoryboardSegue", "identifier"]
+- ["V6Rswift15StoryboardSegue", "performSegue"]
+- !private ["V6Rswift15StoryboardSegue", "source"]
+- ["V6Rswift25StoryboardSegueIdentifier", "deinit"]
+- !private ["V6Rswift25StoryboardSegueIdentifier", "identifier"]
+- !private ["P6Rswift29StoryboardSegueIdentifierType", "identifier"]
+- ["SS", "deinit"]
+- ["PSo21UIAppearanceContainer", "performSegue"]
+- ["PSo18UIContentContainer", "performSegue"]
+- ["PSo18UIFocusEnvironment", "performSegue"]
+- ["CSo11UIResponder", "performSegue"]
+- ["PSo30UIResponderStandardEditActions", "performSegue"]
+- ["PSo16UIStateRestoring", "performSegue"]
+- ["PSo18UITraitEnvironment", "performSegue"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "performSegue"]
+- ["Ps9_Hashable", "performSegue"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- !private "P6Rswift14IdentifierType"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "P6Rswift18SeguePerformerType"
+- "V6Rswift15StoryboardSegue"
+- "V6Rswift25StoryboardSegueIdentifier"
+- !private "P6Rswift29StoryboardSegueIdentifierType"
+- "SS"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/Target Support Files/R.swift.Library/R.swift.Library-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Build/Intermediates/Pods.build/Debug-iphoneos/R.swift.Library.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "b01563160747657fcebdfcd0aa03cbb7"

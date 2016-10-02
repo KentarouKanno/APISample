@@ -1,0 +1,13 @@
+
+
+  pod 'Alamofire', '~> 4.0'
+  pod 'SwiftyJSON'
+  pod 'KeychainAccess'
+  pod 'RealmSwift'
+  pod 'ReachabilitySwift', '~> 3'
+  pod 'SDWebImage', '~>3.8'
+  pod 'SVProgressHUD'
+  pod 'R.swift'
+  pod 'VTAcknowledgementsViewController'
+
+Reachability

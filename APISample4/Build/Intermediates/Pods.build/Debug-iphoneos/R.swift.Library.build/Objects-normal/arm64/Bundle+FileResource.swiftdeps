@@ -1,0 +1,74 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["CSo6Bundle", ""]
+- ["CSo6Bundle", "url"]
+- ["CSo6Bundle", "path"]
+provides-dynamic-lookup:
+depends-top-level:
+- "FileResourceType"
+- "Bundle"
+- "URL"
+- "String"
+depends-member:
+- ["Ps9AnyObject", "path"]
+- ["Ps9AnyObject", "url"]
+- ["CSo6Bundle", "FileResourceType"]
+- ["CSo6Bundle", "String"]
+- ["CSo6Bundle", "URL"]
+- ["CSo6Bundle", "deinit"]
+- ["CSo6Bundle", "path"]
+- ["CSo6Bundle", "url"]
+- ["Ps7CVarArg", "path"]
+- ["Ps7CVarArg", "url"]
+- ["Ps28CustomDebugStringConvertible", "path"]
+- ["Ps28CustomDebugStringConvertible", "url"]
+- ["Ps23CustomStringConvertible", "path"]
+- ["Ps23CustomStringConvertible", "url"]
+- ["Ps9Equatable", "path"]
+- ["Ps9Equatable", "url"]
+- ["P6Rswift16FileResourceType", "deinit"]
+- !private ["P6Rswift16FileResourceType", "name"]
+- !private ["P6Rswift16FileResourceType", "pathExtension"]
+- ["Ps8Hashable", "path"]
+- ["Ps8Hashable", "url"]
+- ["CSo8NSObject", "FileResourceType"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "URL"]
+- ["CSo8NSObject", "path"]
+- ["CSo8NSObject", "url"]
+- ["PSo16NSObjectProtocol", "path"]
+- ["PSo16NSObjectProtocol", "url"]
+- ["Sq", "deinit"]
+- ["SS", "deinit"]
+- ["Ps9_Hashable", "path"]
+- ["Ps9_Hashable", "url"]
+depends-nominal:
+- "Ps9AnyObject"
+- "CSo6Bundle"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "P6Rswift16FileResourceType"
+- "Ps8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "SS"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/Target Support Files/R.swift.Library/R.swift.Library-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Build/Intermediates/Pods.build/Debug-iphoneos/R.swift.Library.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "e420bdf1265ed63b0834fcec32620f3d"

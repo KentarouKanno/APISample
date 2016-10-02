@@ -1,8 +1,8 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
-options: "01837d897c056c18f8273c84cce131f8"
-build_time: [528704271, 645671000]
+options: "6bcc300d279fbccc98ddfc4308baafde"
+build_time: [528704817, 299534000]
 inputs:
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample3/APISample3/DataBaseManager.swift": [528704271, 0]
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample3/APISample3/DataBaseManager.swift": [528704412, 0]
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample3/APISample3/Reachability.swift": [528702963, 0]
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample3/APISample3/ViewController.swift": [528651719, 0]
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample3/APISample3/AppDelegate.swift": [528681392, 0]

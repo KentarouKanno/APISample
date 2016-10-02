@@ -1,0 +1,127 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NoUrlForResourceError"
+provides-nominal:
+- "V6Rswift21NoUrlForResourceError"
+provides-member:
+- ["V6Rswift21NoUrlForResourceError", ""]
+- ["V10Foundation4Data", ""]
+- ["V10Foundation4Data", "init"]
+provides-dynamic-lookup:
+depends-top-level:
+- "FileResourceType"
+- "NoUrlForResourceError"
+- "Data"
+- "Error"
+depends-member:
+- !private ["Ps23BidirectionalCollection", "NoUrlForResourceError"]
+- !private ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps22BidirectionalIndexable", "NoUrlForResourceError"]
+- !private ["Ps22BidirectionalIndexable", "init"]
+- !private ["Ps10Collection", "NoUrlForResourceError"]
+- !private ["Ps10Collection", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "NoUrlForResourceError"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "some"]
+- !private ["Ps17CustomReflectable", "NoUrlForResourceError"]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps17CustomReflectable", "some"]
+- !private ["Ps23CustomStringConvertible", "NoUrlForResourceError"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["V10Foundation4Data", "FileResourceType"]
+- !private ["V10Foundation4Data", "NoUrlForResourceError"]
+- ["V10Foundation4Data", "deinit"]
+- ["V10Foundation4Data", "init"]
+- !private ["Ps9Equatable", "NoUrlForResourceError"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps5Error", "_code"]
+- ["Ps5Error", "_domain"]
+- ["Ps5Error", "_getEmbeddedNSError"]
+- ["Ps5Error", "_userInfo"]
+- !private ["Ps5Error", "init"]
+- ["Ps5Error", ""]
+- ["Ps23ExpressibleByNilLiteral", "some"]
+- ["P6Rswift16FileResourceType", "deinit"]
+- !private ["P6Rswift16FileResourceType", "url"]
+- !private ["Ps8Hashable", "NoUrlForResourceError"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps9Indexable", "NoUrlForResourceError"]
+- !private ["Ps9Indexable", "init"]
+- !private ["Ps13IndexableBase", "NoUrlForResourceError"]
+- !private ["Ps13IndexableBase", "init"]
+- ["Si", "deinit"]
+- !private ["Ps17MutableCollection", "NoUrlForResourceError"]
+- !private ["Ps17MutableCollection", "init"]
+- !private ["Ps16MutableIndexable", "NoUrlForResourceError"]
+- !private ["Ps16MutableIndexable", "init"]
+- ["V6Rswift21NoUrlForResourceError", "_code"]
+- ["V6Rswift21NoUrlForResourceError", "_domain"]
+- ["V6Rswift21NoUrlForResourceError", "_getEmbeddedNSError"]
+- ["V6Rswift21NoUrlForResourceError", "_userInfo"]
+- ["V6Rswift21NoUrlForResourceError", "deinit"]
+- ["V6Rswift21NoUrlForResourceError", "init"]
+- ["Sq", "deinit"]
+- ["Sq", "some"]
+- !private ["Ps22RandomAccessCollection", "NoUrlForResourceError"]
+- !private ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps21RandomAccessIndexable", "NoUrlForResourceError"]
+- !private ["Ps21RandomAccessIndexable", "init"]
+- !private ["Ps26RangeReplaceableCollection", "NoUrlForResourceError"]
+- !private ["Ps26RangeReplaceableCollection", "init"]
+- !private ["Ps25RangeReplaceableIndexable", "NoUrlForResourceError"]
+- !private ["Ps25RangeReplaceableIndexable", "init"]
+- !private ["P10Foundation20ReferenceConvertible", "NoUrlForResourceError"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps8Sequence", "NoUrlForResourceError"]
+- !private ["Ps8Sequence", "init"]
+- ["V10Foundation3URL", "deinit"]
+- !private ["Ps9_Hashable", "NoUrlForResourceError"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["P10Foundation18_MutablePairBoxing", "NoUrlForResourceError"]
+- !private ["P10Foundation18_MutablePairBoxing", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "NoUrlForResourceError"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- !private "Ps10Collection"
+- "Ps28CustomDebugStringConvertible"
+- "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- !private "Ps9Equatable"
+- "Ps5Error"
+- "Ps23ExpressibleByNilLiteral"
+- "P6Rswift16FileResourceType"
+- !private "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- "Si"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- "V6Rswift21NoUrlForResourceError"
+- "Sq"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps8Sequence"
+- "V10Foundation3URL"
+- !private "Ps9_Hashable"
+- !private "P10Foundation18_MutablePairBoxing"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/Target Support Files/R.swift.Library/R.swift.Library-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Build/Intermediates/Pods.build/Debug-iphoneos/R.swift.Library.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "c461bda19adfa49f4bdcfa4275795640"

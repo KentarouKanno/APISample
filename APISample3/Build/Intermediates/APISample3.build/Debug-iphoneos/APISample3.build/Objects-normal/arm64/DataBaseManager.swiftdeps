@@ -7,10 +7,10 @@ provides-member:
 - ["C10APISample315DataBaseManager", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "DataBaseManager"
-- "Realm"
-- "LibraryData"
 - "Array"
+- "LibraryData"
+- "Realm"
+- "DataBaseManager"
 depends-member:
 - ["Ps9AnyObject", "DataBaseManager"]
 - !private ["Ps9AnyObject", "Element"]

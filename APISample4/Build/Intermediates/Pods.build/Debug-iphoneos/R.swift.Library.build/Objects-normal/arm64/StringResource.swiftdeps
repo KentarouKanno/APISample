@@ -1,0 +1,60 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StringResourceType"
+- "StringResource"
+provides-nominal:
+- "P6Rswift18StringResourceType"
+- "V6Rswift14StringResource"
+provides-member:
+- ["P6Rswift18StringResourceType", ""]
+- ["V6Rswift14StringResource", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "StringResourceType"
+- "String"
+- "Bundle"
+- "AssignmentPrecedence"
+- "StringResource"
+depends-member:
+- ["Sa", "deinit"]
+- ["CSo6Bundle", "deinit"]
+- ["Sq", "deinit"]
+- ["SS", "deinit"]
+- ["V6Rswift14StringResource", "Bundle"]
+- ["V6Rswift14StringResource", "String"]
+- ["V6Rswift14StringResource", "bundle"]
+- ["V6Rswift14StringResource", "comment"]
+- ["V6Rswift14StringResource", "deinit"]
+- ["V6Rswift14StringResource", "init"]
+- ["V6Rswift14StringResource", "key"]
+- ["V6Rswift14StringResource", "locales"]
+- ["V6Rswift14StringResource", "tableName"]
+- ["P6Rswift18StringResourceType", "Bundle"]
+- ["P6Rswift18StringResourceType", "String"]
+- ["P6Rswift18StringResourceType", "bundle"]
+- ["P6Rswift18StringResourceType", "comment"]
+- ["P6Rswift18StringResourceType", "key"]
+- ["P6Rswift18StringResourceType", "locales"]
+- ["P6Rswift18StringResourceType", "tableName"]
+- ["P6Rswift18StringResourceType", ""]
+depends-nominal:
+- "Sa"
+- "CSo6Bundle"
+- "Sq"
+- "SS"
+- "V6Rswift14StringResource"
+- "P6Rswift18StringResourceType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Pods/Target Support Files/R.swift.Library/R.swift.Library-umbrella.h"
+- "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample4/Build/Intermediates/Pods.build/Debug-iphoneos/R.swift.Library.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "43c338679d1b671e4afe221f09559379"
