@@ -10,10 +10,10 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "StringLiteralType"
+- "Keychain"
 - "KeychainManager"
 - "AssignmentPrecedence"
 - "=="
-- "Keychain"
 - "String"
 - !private "~="
 depends-member:

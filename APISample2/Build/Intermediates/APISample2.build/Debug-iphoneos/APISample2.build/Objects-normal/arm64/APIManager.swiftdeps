@@ -7,18 +7,18 @@ provides-member:
 - ["C10APISample210APIManager", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- !private "Dictionary"
+- !private "URLEncoding"
+- !private "JSON"
+- !private "Alamofire"
+- !private "Parameters"
+- "APIManager"
 - "LibraryData"
 - "Array"
-- !private "StringLiteralType"
-- "APIManager"
 - "Double"
-- !private "JSON"
 - !private "KeychainManager"
-- !private "Dictionary"
-- !private "Alamofire"
 - !private "UnicodeScalarType"
-- !private "URLEncoding"
-- !private "Parameters"
+- !private "StringLiteralType"
 depends-member:
 - !private ["C10APISample210APIManager", "Alamofire"]
 - ["C10APISample210APIManager", "Array"]

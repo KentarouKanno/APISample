@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
 options: "474f92e83a68523834577edf1341e83b"
-build_time: [528681496, 183428000]
+build_time: [528681924, 71485000]
 inputs:
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample2/Pods/Alamofire/Source/AFError.swift": [528681088, 0]
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample2/Pods/Alamofire/Source/Alamofire.swift": [528681088, 0]

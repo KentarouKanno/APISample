@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.0.1)
+  - KeychainAccess (3.0.0)
+  - ReachabilitySwift (3)
+  - Realm (2.0.1):
+    - Realm/Headers (= 2.0.1)
+  - Realm/Headers (2.0.1)
+  - RealmSwift (2.0.1):
+    - Realm (= 2.0.1)
+  - SwiftyJSON (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - KeychainAccess
+  - ReachabilitySwift (~> 3)
+  - RealmSwift
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  KeychainAccess: 412bf2650d9aebfc8135a58103b90ec38caad7f8
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Realm: 0557ee0e4ab4f0936c90e370056d1ed6265f93d6
+  RealmSwift: 64e00af79bdcd7d2a7a23fdc1cb3faf22b80ae4c
+  SwiftyJSON: 29b9f2a64f118c07e691667c2ba1efe536acfe0b
+
+PODFILE CHECKSUM: 8cc0c221c89f92068e47f700c336830efd4be087
+
+COCOAPODS: 1.1.0.rc.2

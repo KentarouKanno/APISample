@@ -1,5 +1,5 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
 options: "4031052ff323ada7edde0ea32c02e58f"
-build_time: [528681494, 902732000]
+build_time: [528681922, 620645000]
 inputs:
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample2/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [528681088, 0]

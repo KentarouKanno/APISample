@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
 options: "a9297ee1b512c37a05698ddfb762da4b"
-build_time: [528681500, 158723000]
+build_time: [528681936, 412316000]
 inputs:
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample2/APISample2/ViewController.swift": [528651719, 0]
   "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample2/APISample2/AppDelegate.swift": [528681392, 0]

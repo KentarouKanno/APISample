@@ -33,7 +33,7 @@
 		</dict>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		3Bj2KhuVwD38QlSLaQhOqfHLWbk=
+		t7Ovt406xf8tFvTW/hZ0SsF4GT0=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
@@ -49,7 +49,7 @@
 		</data>
 		<key>Frameworks/KeychainAccess.framework/KeychainAccess</key>
 		<data>
-		fy3uZBBP7YCJXZFcG9eJN6kkepU=
+		9ICZXmTbPFb5pKeH4u9mzcM+gDE=
 		</data>
 		<key>Frameworks/KeychainAccess.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -61,7 +61,7 @@
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/SwiftyJSON</key>
 		<data>
-		mdRhdbbxbrYUTbEdw7C+HHOmNHg=
+		9MMEc2C8SjjTZyHIqFx3/clicgQ=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -189,11 +189,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3Bj2KhuVwD38QlSLaQhOqfHLWbk=
+			t7Ovt406xf8tFvTW/hZ0SsF4GT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zxl6s2i3OKDIYIx3liXHNljFT+numj3vTI6dyoCk9OE=
+			rN3Kl0DWX3aVmoStkJ94ghDQcMpgYu6dEyiuwVAB/wo=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fy3uZBBP7YCJXZFcG9eJN6kkepU=
+			9ICZXmTbPFb5pKeH4u9mzcM+gDE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ITXjYGVPUviMMvEPb7Ryjvv09y7rq1PvzeCDB1S2AJk=
+			qqthVC7hFb5iQrsD14yaTm71E7q2upGWkZMcN0N6sbg=
 			</data>
 		</dict>
 		<key>Frameworks/KeychainAccess.framework/_CodeSignature/CodeResources</key>
@@ -266,11 +266,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mdRhdbbxbrYUTbEdw7C+HHOmNHg=
+			9MMEc2C8SjjTZyHIqFx3/clicgQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DaO/byd/dBo4oKDpc3x5bu4cc3SdwxsRVbuS4K7N22I=
+			Pqyrwugs06atUvWXnaErQtHCRHTXiuLzIlLysnsOhHY=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>

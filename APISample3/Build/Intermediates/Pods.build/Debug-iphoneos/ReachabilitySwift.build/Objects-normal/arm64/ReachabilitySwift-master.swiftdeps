@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "401656b4f42148acf5d86f0e967b4df1"
+build_time: [528686171, 412650000]
+inputs:
+  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/My_Github/APISample/APISample3/Pods/ReachabilitySwift/Reachability/Reachability.swift": [528685769, 0]

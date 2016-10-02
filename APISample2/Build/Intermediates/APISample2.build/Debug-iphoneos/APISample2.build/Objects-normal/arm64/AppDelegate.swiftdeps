@@ -6,20 +6,20 @@ provides-nominal:
 provides-member:
 - ["C10APISample211AppDelegate", ""]
 provides-dynamic-lookup:
-- "application"
 - "window"
+- "application"
 depends-top-level:
-- !private "StringLiteralType"
+- "AssignmentPrecedence"
+- "UIApplicationDelegate"
 - "AppDelegate"
 - "UIResponder"
-- !private "KeychainManager"
-- "Bool"
-- "UIWindow"
-- !private "BooleanLiteralType"
-- "UIApplicationDelegate"
-- "AssignmentPrecedence"
 - "UIApplicationLaunchOptionsKey"
 - "UIApplication"
+- !private "KeychainManager"
+- "UIWindow"
+- !private "BooleanLiteralType"
+- !private "StringLiteralType"
+- "Bool"
 depends-member:
 - !private ["Ps9AnyObject", "KeychainManager"]
 - !private ["Ps9AnyObject", "appkey"]
